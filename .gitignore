@@ -11,6 +11,7 @@ _deps
 CMakeUserPresets.json
 notes.txt
 workshop.pdf
+.vscode
 
 # Prerequisites
 *.d
