@@ -9,6 +9,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+notes.txt
+workshop.pdf
 
 # Prerequisites
 *.d
