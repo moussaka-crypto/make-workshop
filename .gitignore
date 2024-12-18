@@ -13,7 +13,7 @@ notes.txt
 workshop.pdf
 .vscode
 main
-workshop
+build/workshop
 
 # Prerequisites
 *.d
